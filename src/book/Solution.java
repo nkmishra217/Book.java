@@ -16,7 +16,7 @@ public class Solution {
                 String author = scanner.nextLine();
                 String isbn = scanner.nextLine();
                 book[i] = new Book(name, author, isbn);
-
+                System.out.println(book[i]);
             }
         }
     }
