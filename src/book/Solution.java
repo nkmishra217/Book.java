@@ -10,7 +10,7 @@ public class Solution {
         if (n == 0) {
             System.out.println("N/A");
         } else {
-            scanner.nextLine();
+
         }
     }
 }
