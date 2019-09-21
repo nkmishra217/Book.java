@@ -10,7 +10,12 @@ public class Solution {
         if (n == 0) {
             System.out.println("N/A");
         } else {
-
+            scanner.nextLine();
+            for (int i = 0; i < n; i++) {
+                String name = scanner.nextLine();
+                String author = scanner.nextLine();
+                String isbn = scanner.nextLine();
+            }
         }
     }
 }
